@@ -31,8 +31,8 @@ Install these before proceeding:
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
-cd DRAG
+git clone https://github.com/Kaustub-Mocherla/DKSS
+cd DKSS
 ```
 
 ### 2. Create and activate a virtual environment
